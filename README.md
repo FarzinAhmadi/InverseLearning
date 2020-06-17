@@ -1,4 +1,4 @@
-# InverseLearning
+# Inverse Learning
 ## Data for the diet recommendation problem
 This repository includes a set of initial observations of the daily dietary habits of individuals. These observations are gathered and curated from the [National Health and Nutrition Examination Survey (NHANES) Dietary data](https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx?Component=Dietary). The main data file includes both demographics and detailed individual food items intake of each person. Overall daily nutrient intakes of each person are also recorderd in another data sheet.
 
